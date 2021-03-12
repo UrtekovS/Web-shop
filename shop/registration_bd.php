@@ -12,7 +12,7 @@ $patronymic=$_POST['patronymic'];
 $phone=$_POST['phone'];
 $email=$_POST['email'];
 $pass1=$_POST['pass1'];
-$date_of_brith=$_POST['date_of_birth'];
+$date_of_brith=$_POST['date_of_brith'];
 $sex=$_POST['sex'];
 $s="";
 if ($email!="" && $phone!="")
